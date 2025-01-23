@@ -1,0 +1,47 @@
+body {
+    margin-left: 20px;
+}
+
+    .card {
+        width: 500px;
+        background-color: lightgray;
+        border: 1px solid darkgray;
+        margin: 10px;
+}
+
+.innercard{
+    padding: 10px;
+}
+
+.header {
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    padding: 1X 0;
+    border: 1px solid gray;
+    user-select: none;
+}
+
+.green {
+    background-color: #4abe14;
+}
+
+.yellow {
+    background-color: #f6fd05;
+}
+
+.red {
+    background-color: #fd0518;
+}
+
+.blue {
+    background-color:  #123aeb;
+}
+
+.dark {
+    background-color: #36393f;
+}
+
+p {
+    padding-left: 10px;
+}
